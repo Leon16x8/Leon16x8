@@ -1,15 +1,15 @@
-<div align="left">
-  <a href="https://www.linkedin.com/in/leonardo-svieira1608/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/5511945692198" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
+<p align="center">Ola, sou um desenvolvedor iniciante de Front-End / Back-End 👨🏻‍💻<br>Atualmente fazendo bacharelado na São Judas de Ciência da Computação 📚 <br><br>Sempre fui apaixonado por tecnologia e hoje tenho a oportunidade de estar aprendendo cada vez mais com o mundo da programação.<br><br>Conheça um pouco dos projetos desenvolvidos por mim. 😁<br>👇🏻 Clique no link abaixo 👇🏻<br><br><br><a href="https://leon16x8.github.io/portifolio/">Portifólio 🙋🏻‍♂️</a><br><br>Redes Sociais 🌐</p>
 
 ###
 
-<p align="center">Ola, sou um desenvolvedor iniciante de Front-End / Back-End 👨🏻‍💻<br>Atualmente fazendo bacharelado na São Judas de Ciência da Computação <br><br>Sempre fui apaixonado por tecnologia e hoje tenho a oportunidade de estar aprendendo cada vez mais com o mundo da programação.<br><br>Conheça um pouco dos projetos desenvolvidos por mim.<br>Clique no link abaixo<br><br><br><a href="https://leon16x8.github.io/portifolio/">Portifólio</a></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/leonardo-svieira1608/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5511945692198" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="32" height="20" alt="whatsapp logo"  />
+  </a>
+</div>
 
 ###
 
