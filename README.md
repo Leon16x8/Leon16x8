@@ -9,8 +9,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-5pc9epelc-leon16x8s-projects.vercel.app/api?username=Leon16x8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats-5pc9epelc-leon16x8s-projects.vercel.app/api/top-langs?username=Leon16x8&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-delta-74.vercel.app/api?username=Leon16x8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-delta-74.vercel.app/api/top-langs?username=Leon16x8&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="165" alt="languages graph" />
 </div>
 
 <br>
