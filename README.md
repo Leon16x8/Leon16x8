@@ -21,7 +21,7 @@
 const leonardo = {
     cargo: "Analista de Sistemas Pleno",
     empresa: "Grupo GPS - Divisão Logística",
-    formação: "Bacharel em Sistemas de Informação - UNIP (2024)",
+    formação: "Bacharel em Sistemas de Informação - Sao Judas (2024)",
     foco: ["Business Intelligence", "Automação", "Desenvolvimento Web"],
     aprendendo: ["React", "Next.js", "TypeScript", "Cloud"],
     curiosidade: "Transformo dados em decisões estratégicas 📊"
